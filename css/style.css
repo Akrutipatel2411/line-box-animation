@@ -1,0 +1,26 @@
+body,html
+{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+*
+{
+    box-sizing: border-box;
+}
+.container
+{
+    width: 100px;
+    height: 100px;
+    background-color: deepskyblue;
+    animation-duration: 10s;
+    animation-name: boxtoline;
+    
+}
+@keyframes boxtoline
+{
+    0%
+    {
+        
+    }
+}
